@@ -1,0 +1,10 @@
+.table {
+  border: 2px solid blue;
+  border-collapse: collapse;
+}
+.table td {
+  border: 2px solid blue;
+}
+.table th {
+  border: 2px solid blue;
+}
